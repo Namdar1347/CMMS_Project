@@ -1,0 +1,30 @@
+1- switch folder
+
+   cd /d/Technical_Articles/Software_Engineering/JAVA/workSpace/CMMS_Project
+   or 
+   cd  /C/Users/Namdar/Dropbox/workSpace/Java/CMMS_Project 
+2-Confugure git account for git repository
+
+  $ git config --global user.name "Namdar1347"
+  $ git config --global user.email namdar_mohammadi@yahoo.com
+
+3-clone my repository in my git folder (download from github to my git folder in my computer)
+
+  git clone https://github.com/Namdar1347/CMMS_Project.git
+
+4-get directory
+  
+   ls
+5-create a file in my folder in computer
+
+   test.txt
+
+6- send it to git
+
+   git add file name
+
+7- see status in git
+   $ git status
+
+
+
